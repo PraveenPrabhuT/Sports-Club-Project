@@ -73,6 +73,7 @@ a.active {
     text-align: center;
     grid-template-columns: 50% 50%;
     height: 100%;
+    min-height: 661px;
 }
 
 .login .sportslogo {
@@ -118,7 +119,7 @@ img {
 .about .abouttext {
     background: #46454550;
     text-transform: none;
-    font-size: 16px;
+    font-size: 24px;
     font-family: Montserrat;
     text-align: justify;
     margin: 30px 30px;
@@ -140,6 +141,12 @@ img {
     text-transform: uppercase;
 }
 
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
 .container {
     display: flex;
     align-items: center;
@@ -154,6 +161,7 @@ img {
     width: 30rem;
     position: relative;
     margin: 1.5rem;
+    min-height: 685px;
 }
 
 .heads {
