@@ -1,7 +1,7 @@
 
-HTML Project Report
+# HTML Project Report
 
-Topic: Sports Club Website
+## Topic: Sports Club Website
 
 Done By				: Praveen Prabhu. T
 Registration No		: 12215161
@@ -17,21 +17,17 @@ Submitted To			: Mr Mir Junaid Rasool
 <li>Concepts used</li>
 <li>Structure</li>
 </ol> 
-Introduction
+### Introduction
 	This website was created to display information regarding the various sport’s clubs, provide contact information, and accept registrations for the clubs. The website is filled with rich HTML and CSS in the front-end, and some simple JavaScript to do some client-side processing and verifications. 
 
 
 
-Logo:
- 
-
-
-Code:
+### Code:
 Github repo: https://github.com/PraveenPrabhuT/Sports-Club-Project
 
 
 
-Concept Used:
+### Concept Used:
 
 <ul>
 <li>HTML</li>
@@ -53,7 +49,7 @@ Concept Used:
 
 
 
-Structure:
+### Structure:
 
 <ul>
 <li>Home Page</li>
@@ -73,20 +69,3 @@ Structure:
 <li>Login Form</li>
 			</ul>
 </ul>
-
-
-Screenshots:
-Home Page
- 
-Navigation Bar
- 
-About Section
- 
-Clubs
- 
-
- 
- 
-
-Footer
- 
