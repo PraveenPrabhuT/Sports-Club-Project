@@ -3,9 +3,9 @@
 
 ## Topic: Sports Club Website
 
-Done By				: Praveen Prabhu. T
-Registration No		: 12215161
-Roll No				: 45
+Done By				    : Praveen Prabhu. T
+Registration No		    : 12215161
+Roll No				    : 45
 Section					: K22CL
 Submitted To			: Mr Mir Junaid Rasool
 
