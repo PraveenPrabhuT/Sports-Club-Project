@@ -19,7 +19,7 @@ Submitted To			: Mr Mir Junaid Rasool
 </ol> 
 <h3> Introduction</h3>
 
-	This website was created to display information regarding the various sport’s clubs, provide contact information, and accept registrations for the clubs. The website is filled with rich HTML and CSS in the front-end, and some simple JavaScript to do some client-side processing and verifications. 
+This website was created to display information regarding the various sport’s clubs, provide contact information, and accept registrations for the clubs. The website is filled with rich HTML and CSS in the front-end, and some simple JavaScript to do some client-side processing and verifications. 
 
 
 
