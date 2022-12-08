@@ -103,7 +103,7 @@ img {
     border-radius: 5px 5px;
 }
 
-.form1 input[type=text],.form1 input[type=password] {
+.form1 input[type=text],.form1 input[type=password], .form1 input[type=email] {
     padding-top: 5px;
     padding-bottom: 5px;
     padding-left: 5px;
